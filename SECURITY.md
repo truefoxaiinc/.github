@@ -4,9 +4,7 @@
 
 **Do not report vulnerabilities in public issues, discussions or pull requests.**
 
-Use GitHub's private vulnerability-reporting feature when it is enabled. Otherwise email **security@YOUR-DOMAIN.com** with the subject `Security report: repository-name`.
-
-> Replace `security@YOUR-DOMAIN.com` before relying on this policy.
+Use GitHub's private vulnerability-reporting feature when it is enabled. Otherwise email **info@truefoxaiinc.com** with the subject `Security report: repository-name`.
 
 Include the affected repository and version, impact, reproduction steps, proof-of-concept details where safe, and suggested remediation. Do not include real customer data or access systems beyond what is necessary to demonstrate the issue.
 

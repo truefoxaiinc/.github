@@ -4,5 +4,5 @@ contact_links:
     url: https://github.com/truefoxaiinc/.github/security/advisories/new
     about: Report suspected vulnerabilities privately. Do not open a public issue.
   - name: Product support
-    url: https://REPLACE-WITH-SUPPORT-URL.example
-    about: Replace this placeholder with the official support channel.
+    url: https://truefoxaiinc.com/
+    about: Visit the Truefox AI website or email info@truefoxaiinc.com for product support.

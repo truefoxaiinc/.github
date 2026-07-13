@@ -16,4 +16,4 @@ Harassment, discrimination, threats, deliberate disruption, doxxing and publicat
 
 ## Enforcement
 
-Report conduct concerns privately to **[REPLACE: conduct contact email]**. Maintainers may edit or remove contributions and may temporarily or permanently restrict participation when necessary. Reports will be handled as confidentially as reasonably possible.
+Report conduct concerns privately to **info@truefoxaiinc.com**. Maintainers may edit or remove contributions and may temporarily or permanently restrict participation when necessary. Reports will be handled as confidentially as reasonably possible.

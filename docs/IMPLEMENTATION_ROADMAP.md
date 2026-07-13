@@ -3,7 +3,7 @@
 ## Phase 1 — Immediate
 
 - Publish the company profile and fox-only symbol.
-- Replace website, contact, LinkedIn, careers, documentation, security and support placeholders.
+- Publish verified website, contact, LinkedIn, careers, security and support channels.
 - Set account metadata and a professional social preview.
 - Leave project pins empty until publication-ready repositories exist.
 

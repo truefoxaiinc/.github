@@ -8,7 +8,7 @@ body:
       value: |
         **Do not disclose vulnerability details in this public form.**
 
-        Use GitHub private vulnerability reporting when available, or email **security@YOUR-DOMAIN.com**. This placeholder must be replaced before use.
+        Use GitHub private vulnerability reporting when available, or email **info@truefoxaiinc.com** with the subject `Security report: repository-name`.
   - type: checkboxes
     id: acknowledgement
     attributes:
